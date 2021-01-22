@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assigment3.2", "Assigment3.2\Assigment3.2.csproj", "{D3DD1718-3748-4D11-95D5-12B4EFA05622}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3DD1718-3748-4D11-95D5-12B4EFA05622}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{D3DD1718-3748-4D11-95D5-12B4EFA05622}.Debug|anycpu.Build.0 = Debug|anycpu
+		{D3DD1718-3748-4D11-95D5-12B4EFA05622}.Release|anycpu.ActiveCfg = Release|anycpu
+		{D3DD1718-3748-4D11-95D5-12B4EFA05622}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

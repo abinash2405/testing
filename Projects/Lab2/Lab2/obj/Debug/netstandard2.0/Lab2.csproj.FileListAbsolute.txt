@@ -1,0 +1,8 @@
+/Users/abinashkumanan/Projects/Lab2/Lab2/bin/Debug/netstandard2.0/Lab2.deps.json
+/Users/abinashkumanan/Projects/Lab2/Lab2/bin/Debug/netstandard2.0/Lab2.dll
+/Users/abinashkumanan/Projects/Lab2/Lab2/bin/Debug/netstandard2.0/Lab2.pdb
+/Users/abinashkumanan/Projects/Lab2/Lab2/obj/Debug/netstandard2.0/Lab2.csprojAssemblyReference.cache
+/Users/abinashkumanan/Projects/Lab2/Lab2/obj/Debug/netstandard2.0/Lab2.AssemblyInfoInputs.cache
+/Users/abinashkumanan/Projects/Lab2/Lab2/obj/Debug/netstandard2.0/Lab2.AssemblyInfo.cs
+/Users/abinashkumanan/Projects/Lab2/Lab2/obj/Debug/netstandard2.0/Lab2.dll
+/Users/abinashkumanan/Projects/Lab2/Lab2/obj/Debug/netstandard2.0/Lab2.pdb

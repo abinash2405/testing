@@ -1,0 +1,6 @@
+/Users/abinashkumanan/Projects/AbianshKumanan/AbianshKumanan/bin/Debug/AbianshKumanan.exe
+/Users/abinashkumanan/Projects/AbianshKumanan/AbianshKumanan/bin/Debug/AbianshKumanan.pdb
+/Users/abinashkumanan/Projects/AbianshKumanan/AbianshKumanan/obj/Debug/AbianshKumanan.csprojAssemblyReference.cache
+/Users/abinashkumanan/Projects/AbianshKumanan/AbianshKumanan/obj/Debug/AbianshKumanan.csproj.CoreCompileInputs.cache
+/Users/abinashkumanan/Projects/AbianshKumanan/AbianshKumanan/obj/Debug/AbianshKumanan.exe
+/Users/abinashkumanan/Projects/AbianshKumanan/AbianshKumanan/obj/Debug/AbianshKumanan.pdb

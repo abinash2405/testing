@@ -1,0 +1,9 @@
+/Users/abinashkumanan/Projects/AbinashKumananLab1/AbinashKumananLab1/bin/Release/netstandard2.0/AbinashKumananLab1.deps.json
+/Users/abinashkumanan/Projects/AbinashKumananLab1/AbinashKumananLab1/bin/Release/netstandard2.0/AbinashKumananLab1.dll
+/Users/abinashkumanan/Projects/AbinashKumananLab1/AbinashKumananLab1/bin/Release/netstandard2.0/AbinashKumananLab1.pdb
+/Users/abinashkumanan/Projects/AbinashKumananLab1/AbinashKumananLab1/obj/Release/netstandard2.0/AbinashKumananLab1.csproj.CoreCompileInputs.cache
+/Users/abinashkumanan/Projects/AbinashKumananLab1/AbinashKumananLab1/obj/Release/netstandard2.0/AbinashKumananLab1.AssemblyInfoInputs.cache
+/Users/abinashkumanan/Projects/AbinashKumananLab1/AbinashKumananLab1/obj/Release/netstandard2.0/AbinashKumananLab1.AssemblyInfo.cs
+/Users/abinashkumanan/Projects/AbinashKumananLab1/AbinashKumananLab1/obj/Release/netstandard2.0/AbinashKumananLab1.dll
+/Users/abinashkumanan/Projects/AbinashKumananLab1/AbinashKumananLab1/obj/Release/netstandard2.0/AbinashKumananLab1.pdb
+/Users/abinashkumanan/Projects/AbinashKumananLab1/AbinashKumananLab1/bin/Release/netstandard2.0/lab1.cs

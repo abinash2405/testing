@@ -1,0 +1,5 @@
+/Users/abinashkumanan/Projects/week10/week10/obj/Debug/week10.csprojAssemblyReference.cache
+/Users/abinashkumanan/Projects/week10/week10/bin/Debug/week10.exe
+/Users/abinashkumanan/Projects/week10/week10/bin/Debug/week10.pdb
+/Users/abinashkumanan/Projects/week10/week10/obj/Debug/week10.exe
+/Users/abinashkumanan/Projects/week10/week10/obj/Debug/week10.pdb

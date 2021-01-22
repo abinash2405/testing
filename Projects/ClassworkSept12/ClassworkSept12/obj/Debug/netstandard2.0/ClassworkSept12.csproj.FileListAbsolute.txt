@@ -1,0 +1,4 @@
+/Users/abinashkumanan/Projects/ClassworkSept12/ClassworkSept12/obj/Debug/netstandard2.0/ClassworkSept12.csprojAssemblyReference.cache
+/Users/abinashkumanan/Projects/ClassworkSept12/ClassworkSept12/obj/Debug/netstandard2.0/ClassworkSept12.csproj.CoreCompileInputs.cache
+/Users/abinashkumanan/Projects/ClassworkSept12/ClassworkSept12/obj/Debug/netstandard2.0/ClassworkSept12.AssemblyInfoInputs.cache
+/Users/abinashkumanan/Projects/ClassworkSept12/ClassworkSept12/obj/Debug/netstandard2.0/ClassworkSept12.AssemblyInfo.cs

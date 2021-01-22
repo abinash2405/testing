@@ -1,0 +1,4 @@
+/Users/abinashkumanan/Projects/Lab22/Lab22/bin/Debug/Lab22.exe
+/Users/abinashkumanan/Projects/Lab22/Lab22/bin/Debug/Lab22.pdb
+/Users/abinashkumanan/Projects/Lab22/Lab22/obj/Debug/Lab22.exe
+/Users/abinashkumanan/Projects/Lab22/Lab22/obj/Debug/Lab22.pdb

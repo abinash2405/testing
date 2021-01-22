@@ -1,0 +1,9 @@
+/Users/abinashkumanan/Projects/c/c/bin/Debug/netstandard2.0/c.deps.json
+/Users/abinashkumanan/Projects/c/c/bin/Debug/netstandard2.0/c.dll
+/Users/abinashkumanan/Projects/c/c/bin/Debug/netstandard2.0/c.pdb
+/Users/abinashkumanan/Projects/c/c/obj/Debug/netstandard2.0/c.csprojAssemblyReference.cache
+/Users/abinashkumanan/Projects/c/c/obj/Debug/netstandard2.0/c.csproj.CoreCompileInputs.cache
+/Users/abinashkumanan/Projects/c/c/obj/Debug/netstandard2.0/c.AssemblyInfoInputs.cache
+/Users/abinashkumanan/Projects/c/c/obj/Debug/netstandard2.0/c.AssemblyInfo.cs
+/Users/abinashkumanan/Projects/c/c/obj/Debug/netstandard2.0/c.dll
+/Users/abinashkumanan/Projects/c/c/obj/Debug/netstandard2.0/c.pdb

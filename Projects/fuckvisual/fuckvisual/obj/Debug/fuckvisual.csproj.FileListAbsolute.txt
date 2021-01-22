@@ -1,0 +1,5 @@
+/Users/abinashkumanan/Projects/fuckvisual/fuckvisual/bin/Debug/fuckvisual.exe
+/Users/abinashkumanan/Projects/fuckvisual/fuckvisual/bin/Debug/fuckvisual.pdb
+/Users/abinashkumanan/Projects/fuckvisual/fuckvisual/obj/Debug/fuckvisual.csprojAssemblyReference.cache
+/Users/abinashkumanan/Projects/fuckvisual/fuckvisual/obj/Debug/fuckvisual.exe
+/Users/abinashkumanan/Projects/fuckvisual/fuckvisual/obj/Debug/fuckvisual.pdb

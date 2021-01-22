@@ -1,0 +1,5 @@
+/Users/abinashkumanan/Projects/Binarysearch/Binarysearch/bin/Debug/Binarysearch.exe
+/Users/abinashkumanan/Projects/Binarysearch/Binarysearch/bin/Debug/Binarysearch.pdb
+/Users/abinashkumanan/Projects/Binarysearch/Binarysearch/obj/Debug/Binarysearch.csprojAssemblyReference.cache
+/Users/abinashkumanan/Projects/Binarysearch/Binarysearch/obj/Debug/Binarysearch.exe
+/Users/abinashkumanan/Projects/Binarysearch/Binarysearch/obj/Debug/Binarysearch.pdb

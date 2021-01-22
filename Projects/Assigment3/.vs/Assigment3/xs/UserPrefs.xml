@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{73E194F3-4463-418E-ACA6-C670935E700B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Assigment3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assigment3/Program.cs">
+    <Files>
+      <File FileName="Assigment3/Program.cs" Line="13" Column="33" />
+      <File FileName="../Assigment2/Assigment2/Program.cs" />
+      <File FileName="../lab3/lab3/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assigment3" expanded="True">
+            <Node name="Assigment3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

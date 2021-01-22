@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{BFEEA551-1A77-45F8-85E9-6FAF16FA4B48}|Default">
+  <MonoDevelop.Ide.ItemProperties.lab3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../fuckvisual/fuckvisual/Program.cs">
+    <Files>
+      <File FileName="../fuckvisual/fuckvisual/Program.cs" Line="94" Column="1" IsPinned="True" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab3" expanded="True">
+            <Node name="lab3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

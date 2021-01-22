@@ -1,0 +1,9 @@
+/Users/abinashkumanan/Projects/LAb2_/LAb2_/obj/Debug/netstandard2.0/LAb2_.csprojAssemblyReference.cache
+/Users/abinashkumanan/Projects/LAb2_/LAb2_/obj/Debug/netstandard2.0/LAb2_.csproj.CoreCompileInputs.cache
+/Users/abinashkumanan/Projects/LAb2_/LAb2_/obj/Debug/netstandard2.0/LAb2_.AssemblyInfoInputs.cache
+/Users/abinashkumanan/Projects/LAb2_/LAb2_/obj/Debug/netstandard2.0/LAb2_.AssemblyInfo.cs
+/Users/abinashkumanan/Projects/LAb2_/LAb2_/bin/Debug/netstandard2.0/LAb2_.deps.json
+/Users/abinashkumanan/Projects/LAb2_/LAb2_/bin/Debug/netstandard2.0/LAb2_.dll
+/Users/abinashkumanan/Projects/LAb2_/LAb2_/bin/Debug/netstandard2.0/LAb2_.pdb
+/Users/abinashkumanan/Projects/LAb2_/LAb2_/obj/Debug/netstandard2.0/LAb2_.dll
+/Users/abinashkumanan/Projects/LAb2_/LAb2_/obj/Debug/netstandard2.0/LAb2_.pdb

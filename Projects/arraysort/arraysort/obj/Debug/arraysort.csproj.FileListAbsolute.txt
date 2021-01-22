@@ -1,0 +1,5 @@
+/Users/abinashkumanan/Projects/arraysort/arraysort/bin/Debug/arraysort.exe
+/Users/abinashkumanan/Projects/arraysort/arraysort/bin/Debug/arraysort.pdb
+/Users/abinashkumanan/Projects/arraysort/arraysort/obj/Debug/arraysort.csprojAssemblyReference.cache
+/Users/abinashkumanan/Projects/arraysort/arraysort/obj/Debug/arraysort.exe
+/Users/abinashkumanan/Projects/arraysort/arraysort/obj/Debug/arraysort.pdb

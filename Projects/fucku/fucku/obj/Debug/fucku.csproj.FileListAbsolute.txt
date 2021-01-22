@@ -1,0 +1,5 @@
+/Users/abinashkumanan/Projects/fucku/fucku/bin/Debug/fucku.exe
+/Users/abinashkumanan/Projects/fucku/fucku/bin/Debug/fucku.pdb
+/Users/abinashkumanan/Projects/fucku/fucku/obj/Debug/fucku.csprojAssemblyReference.cache
+/Users/abinashkumanan/Projects/fucku/fucku/obj/Debug/fucku.exe
+/Users/abinashkumanan/Projects/fucku/fucku/obj/Debug/fucku.pdb

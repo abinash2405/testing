@@ -1,0 +1,5 @@
+/Users/abinashkumanan/Projects/Rectangle/Rectangle/obj/Debug/Rectangle.csprojAssemblyReference.cache
+/Users/abinashkumanan/Projects/Rectangle/Rectangle/bin/Debug/Rectangle.exe
+/Users/abinashkumanan/Projects/Rectangle/Rectangle/bin/Debug/Rectangle.pdb
+/Users/abinashkumanan/Projects/Rectangle/Rectangle/obj/Debug/Rectangle.exe
+/Users/abinashkumanan/Projects/Rectangle/Rectangle/obj/Debug/Rectangle.pdb

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{1651E13B-752B-4864-81FC-6AD24BD9D2AC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="objects_2/Shoes.cs">
+    <Files>
+      <File FileName="objects_2/Program.cs" Line="1" Column="1" />
+      <File FileName="objects_2/Shoes.cs" Line="10" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="objects_2" expanded="True">
+            <Node name="objects_2" expanded="True">
+              <Node name="Shoes.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.objects__2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

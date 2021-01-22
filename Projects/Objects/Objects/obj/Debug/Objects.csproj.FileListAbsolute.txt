@@ -1,0 +1,5 @@
+/Users/abinashkumanan/Projects/Objects/Objects/obj/Debug/Objects.csprojAssemblyReference.cache
+/Users/abinashkumanan/Projects/Objects/Objects/bin/Debug/Objects.exe
+/Users/abinashkumanan/Projects/Objects/Objects/bin/Debug/Objects.pdb
+/Users/abinashkumanan/Projects/Objects/Objects/obj/Debug/Objects.exe
+/Users/abinashkumanan/Projects/Objects/Objects/obj/Debug/Objects.pdb

@@ -1,0 +1,5 @@
+/Users/abinashkumanan/Projects/Lab4/Lab4/bin/Debug/Lab4.exe
+/Users/abinashkumanan/Projects/Lab4/Lab4/bin/Debug/Lab4.pdb
+/Users/abinashkumanan/Projects/Lab4/Lab4/obj/Debug/Lab4.csprojAssemblyReference.cache
+/Users/abinashkumanan/Projects/Lab4/Lab4/obj/Debug/Lab4.exe
+/Users/abinashkumanan/Projects/Lab4/Lab4/obj/Debug/Lab4.pdb

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{ADD470A8-2F42-41E7-98E3-AFA485E104EA}|Default">
+  <MonoDevelop.Ide.ItemProperties.Binarysearch PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Binarysearch/Foreach.cs">
+    <Files>
+      <File FileName="Binarysearch/Program.cs" Line="18" Column="28" />
+      <File FileName="Binarysearch/sortingArray.cs" Line="25" Column="32" />
+      <File FileName="Binarysearch/Foreach.cs" Line="11" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Binarysearch" expanded="True">
+            <Node name="Binarysearch" expanded="True">
+              <Node name="Foreach.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

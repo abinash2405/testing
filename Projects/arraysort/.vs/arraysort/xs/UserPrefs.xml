@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CEA954CA-AC14-4711-A668-0462F3949FC9}|Default">
+  <MonoDevelop.Ide.ItemProperties.arraysort PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="arraysort/Program.cs">
+    <Files>
+      <File FileName="../../Downloads/Program(5).cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/Program(5).cs" Line="57" Column="22" />
+      <File FileName="../Binarysearch/Binarysearch/sortingArray.cs" />
+      <File FileName="../../Downloads/ArraySelectionSort (1).cs" />
+      <File FileName="arraysort/Program.cs" Line="24" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="arraysort" expanded="True">
+            <Node name="arraysort" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

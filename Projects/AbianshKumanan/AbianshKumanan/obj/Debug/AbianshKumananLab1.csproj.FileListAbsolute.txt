@@ -1,0 +1,5 @@
+/Users/abinashkumanan/Projects/AbianshKumanan/AbianshKumanan/bin/Debug/AbianshKumanan.exe
+/Users/abinashkumanan/Projects/AbianshKumanan/AbianshKumanan/bin/Debug/AbianshKumanan.pdb
+/Users/abinashkumanan/Projects/AbianshKumanan/AbianshKumanan/obj/Debug/AbianshKumanan.exe
+/Users/abinashkumanan/Projects/AbianshKumanan/AbianshKumanan/obj/Debug/AbianshKumanan.pdb
+/Users/abinashkumanan/Projects/AbianshKumanan/AbianshKumanan/obj/Debug/AbianshKumananLab1.csprojAssemblyReference.cache

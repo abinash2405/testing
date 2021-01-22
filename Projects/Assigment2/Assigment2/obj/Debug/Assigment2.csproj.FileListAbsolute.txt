@@ -1,0 +1,5 @@
+/Users/abinashkumanan/Projects/Assigment2/Assigment2/bin/Debug/Assigment2.exe
+/Users/abinashkumanan/Projects/Assigment2/Assigment2/bin/Debug/Assigment2.pdb
+/Users/abinashkumanan/Projects/Assigment2/Assigment2/obj/Debug/Assigment2.csprojAssemblyReference.cache
+/Users/abinashkumanan/Projects/Assigment2/Assigment2/obj/Debug/Assigment2.exe
+/Users/abinashkumanan/Projects/Assigment2/Assigment2/obj/Debug/Assigment2.pdb

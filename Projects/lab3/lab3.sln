@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab3", "lab3\lab3.csproj", "{BFEEA551-1A77-45F8-85E9-6FAF16FA4B48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFEEA551-1A77-45F8-85E9-6FAF16FA4B48}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{BFEEA551-1A77-45F8-85E9-6FAF16FA4B48}.Debug|anycpu.Build.0 = Debug|anycpu
+		{BFEEA551-1A77-45F8-85E9-6FAF16FA4B48}.Release|anycpu.ActiveCfg = Release|anycpu
+		{BFEEA551-1A77-45F8-85E9-6FAF16FA4B48}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal

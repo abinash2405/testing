@@ -1,0 +1,8 @@
+/Users/abinashkumanan/Projects/fucku/fucku/obj/Debug/netstandard2.1/fucku.csprojAssemblyReference.cache
+/Users/abinashkumanan/Projects/fucku/fucku/obj/Debug/netstandard2.1/fucku.AssemblyInfoInputs.cache
+/Users/abinashkumanan/Projects/fucku/fucku/obj/Debug/netstandard2.1/fucku.AssemblyInfo.cs
+/Users/abinashkumanan/Projects/fucku/fucku/bin/Debug/netstandard2.1/fucku.deps.json
+/Users/abinashkumanan/Projects/fucku/fucku/bin/Debug/netstandard2.1/fucku.dll
+/Users/abinashkumanan/Projects/fucku/fucku/bin/Debug/netstandard2.1/fucku.pdb
+/Users/abinashkumanan/Projects/fucku/fucku/obj/Debug/netstandard2.1/fucku.dll
+/Users/abinashkumanan/Projects/fucku/fucku/obj/Debug/netstandard2.1/fucku.pdb

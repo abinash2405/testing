@@ -1,0 +1,5 @@
+/Users/abinashkumanan/Projects/Exceptions/Exceptions/bin/Debug/Exceptions.exe
+/Users/abinashkumanan/Projects/Exceptions/Exceptions/bin/Debug/Exceptions.pdb
+/Users/abinashkumanan/Projects/Exceptions/Exceptions/obj/Debug/Exceptions.csprojAssemblyReference.cache
+/Users/abinashkumanan/Projects/Exceptions/Exceptions/obj/Debug/Exceptions.exe
+/Users/abinashkumanan/Projects/Exceptions/Exceptions/obj/Debug/Exceptions.pdb
