@@ -80,7 +80,7 @@ public class Fib {
         //Iterative Ouput
         System.out.println("Iterative output is: ");
 
-        //Goes in for loop to print the sequnce to the nth numbervhvbvb
+        //Goes in for loop to print the sequnce to the nth numbervhvbv
         for (int i = 0; i <n ; i++){
 
             //Calls iterative method
